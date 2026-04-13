@@ -5,6 +5,7 @@ Efriend-MAIC :: a logical-based Artificial Intelligent Agent System Chat-bot for
 # [Published Research]
 
 1.- [Creative Composition Problem: A Knowledge Graph Logical-Based AI Construction and Optimization Solution](https://link.springer.com/chapter/10.1007/978-3-030-72308-8_4)
+
 2.- [E-Friend: A Logical-Based AI Agent System Chat-Bot for Emotional Well-Being and Mental Health](https://link.springer.com/chapter/10.1007/978-3-030-91779-1_7)
 
 ---
